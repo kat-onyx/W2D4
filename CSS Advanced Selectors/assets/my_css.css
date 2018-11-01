@@ -1,0 +1,19 @@
+input[type="radio"] {
+    cursor: pointer;
+    outline: none;
+}
+
+select#expertise {
+    cursor: pointer;
+    outline: none;
+}
+
+input[type="submit"]:hover {
+    cursor: pointer;
+    outline: none;
+    background-color: gold
+}
+
+li#off-color {
+    background-color: gray
+}
